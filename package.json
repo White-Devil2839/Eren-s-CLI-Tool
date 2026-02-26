@@ -1,0 +1,20 @@
+{
+  "name": "eren-s-cli-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/White-Devil2839/Eren-s-CLI-Tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/White-Devil2839/Eren-s-CLI-Tool/issues"
+  },
+  "homepage": "https://github.com/White-Devil2839/Eren-s-CLI-Tool#readme"
+}
