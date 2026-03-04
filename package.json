@@ -16,5 +16,19 @@
   "bugs": {
     "url": "https://github.com/White-Devil2839/Eren-s-CLI-Tool/issues"
   },
-  "homepage": "https://github.com/White-Devil2839/Eren-s-CLI-Tool#readme"
+  "homepage": "https://github.com/White-Devil2839/Eren-s-CLI-Tool#readme",
+  "dependencies": {
+    "axios": "^1.13.6",
+    "chalk": "^5.6.2",
+    "commander": "^14.0.3"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.1",
+    "nodemon": "^3.1.14",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  },
+  "bin": {
+    "mycli": "./dist/index.js"
+  }
 }
